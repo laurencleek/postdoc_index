@@ -1,0 +1,126 @@
+﻿Country;City;University;min_salary;max_salary;cost_of_living_min;cost_of_living_max;Latitude;Longitude;life_satisfaction
+Austria;Vienna;University of Vienna, Vienna University of Technology;50000;65000;1200;1800;48.2082° N;16.3738° E;7.5
+Austria;Graz;University of Graz, Graz University of Technology;45000;60000;900;1400;47.0707° N;15.4395° E;7.3
+Austria;Innsbruck;University of Innsbruck;45000;55000;800;1200;47.2692° N;11.4041° E;7.4
+Austria;Salzburg;University of Salzburg;45000;55000;800;1200;47.8095° N;13.0550° E;7.4
+Belgium;Brussels;Vrije Universiteit Brussel, Université Libre de Bruxelles;38000;50000;1200;1800;50.8503° N;4.3517° E;6.9
+Belgium;Leuven;KU Leuven;38000;50000;1100;1700;50.8798° N;4.7005° E;7.1
+Belgium;Ghent;Ghent University;38000;50000;1100;1600;51.0543° N;3.7174° E;7.1
+Belgium;Liège;University of Liège;38000;50000;1000;1500;50.6326° N;5.5797° E;6.8
+Belgium;Louvain-la-Neuve;Université catholique de Louvain;38000;50000;1100;1600;50.6683° N;4.6110° E;6.9
+Czech Republic;Prague;Charles University, Czech Technical University;30000;40000;800;1200;50.0755° N;14.4378° E;7.1
+Czech Republic;Brno;Masaryk University, Brno University of Technology;30000;40000;700;1100;49.1951° N;16.6068° E;6.8
+Czech Republic;Olomouc;Palacký University Olomouc;30000;40000;600;900;49.5938° N;17.2509° E;6.7
+Denmark;Copenhagen;University of Copenhagen, Technical University of Denmark;55438;58466;1800;2500;55.6761° N;12.5683° E;7.6
+Denmark;Aarhus;Aarhus University;55438;58466;1500;2200;56.1629° N;10.2039° E;7.5
+Denmark;Odense;University of Southern Denmark;55438;58466;1300;2000;55.4038° N;10.4024° E;7.4
+Denmark;Aalborg;Aalborg University;55438;58466;1300;2000;57.0488° N;9.9217° E;7.3
+Finland;Helsinki;University of Helsinki, Aalto University;34800;60000;1200;2000;60.1695° N;24.9354° E;7.8
+Finland;Turku;University of Turku, Åbo Akademi University;34800;60000;900;1500;60.4518° N;22.2666° E;7.5
+Finland;Tampere;Tampere University;34800;60000;900;1500;61.4978° N;23.7610° E;7.4
+Finland;Oulu;University of Oulu;34800;60000;900;1500;65.0121° N;25.4651° E;7.3
+France;Paris;Sorbonne University, Sciences Po, Paris-Saclay University, École Normale Supérieure, École Polytechnique;25000;40000;1200;1800;48.8566° N;2.3522° E;6.7
+France;Lyon;Université de Lyon;25000;40000;900;1400;45.7640° N;4.8357° E;6.9
+France;Marseille;Aix-Marseille University;25000;40000;900;1400;43.2965° N;5.3698° E;6.5
+France;Toulouse;University of Toulouse;25000;40000;800;1300;43.6047° N;1.4442° E;6.8
+France;Bordeaux;University of Bordeaux;25000;40000;900;1400;44.8378° N;0.5792° W;6.8
+France;Grenoble;Université Grenoble Alpes;25000;40000;800;1300;45.1885° N;5.7245° E; 6.9                                  
+France;Strasbourg;University of Strasbourg;25000;40000;900;1400;48.5734° N;7.7521° E; 6.9                                  
+France;Lille;Université de Lille;25000;40000;800;1300;50.6292° N;3.0573° E; 6.8                                  
+France;Montpellier;University of Montpellier;25000;40000;900;1400;43.6119° N;3.8772° E; 6.8                                  
+France;Nantes;University of Nantes;25000;40000;800;1300;47.2184° N;1.5536° W; 6.8                                  
+France;Nice;Université Côte d’Azur;25000;40000;1200;1800;43.7102° N;7.2620° E; 6.8                                  
+Germany;Berlin;Humboldt University, Free University, Technical University;50000;65000;1500;2200;52.5200° N;13.4050° E;7.0
+Germany;Munich;Ludwig Maximilian University, Technical University of Munich;50000;65000;1800;2500;48.1351° N;11.5820° E;7.2
+Germany;Heidelberg;Heidelberg University;50000;65000;1200;1800;49.3988° N;8.6724° E;7.1
+Germany;Frankfurt am Main;Goethe University Frankfurt;50000;65000;1200;1800;50.1109° N;8.6821° E;7.0
+Germany;Hamburg;University of Hamburg;50000;65000;1200;1800;53.5511° N;9.9937° E;7.0
+Germany;Cologne;University of Cologne;50000;65000;1200;1800;50.9375° N;6.9603° E;6.9
+Germany;Bonn;University of Bonn;50000;65000;1200;1800;50.7374° N;7.0982° E;7.0
+Germany;Freiburg;University of Freiburg;50000;65000;1200;1800;47.9990° N;7.8421° E;7.1
+Germany;Tübingen;University of Tübingen;50000;65000;1200;1800;48.5216° N;9.0576° E;7.1
+Germany;Dresden;TU Dresden;50000;65000;1100;1700;51.0504° N;13.7373° E;6.9
+Germany;Leipzig;University of Leipzig;50000;65000;900;1500;51.3397° N;12.3731° E;6.8
+Germany;Göttingen;University of Göttingen;50000;65000;900;1500;51.5413° N;9.9158° E;6.9
+Greece;Athens;National and Kapodistrian University of Athens, NTU Athens;20000;30000;700;1200;37.9838° N;23.7275° E;5.6
+Greece;Thessaloniki;Aristotle University of Thessaloniki;20000;30000;600;1100;40.6401° N;22.9444° E;5.4
+Greece;Patras;University of Patras;20000;30000;600;1100;38.2466° N;21.7346° E;5.5
+Greece;Crete;University of Crete;20000;30000;600;1100;35.3387° N;25.1442° E;5.5
+Hungary;Budapest;Eötvös Loránd University, Budapest University of Technology and Economics;20000;30000;600;900;47.4979° N;19.0402° E;5.8
+Hungary;Szeged;University of Szeged;20000;30000;500;800;46.2530° N;20.1414° E;5.5
+Hungary;Debrecen;University of Debrecen;20000;30000;500;800;47.5316° N;21.6273° E;5.4
+Ireland;Dublin;Trinity College Dublin, University College Dublin;36000;48160;1800;2500;53.3498° N;6.2603° W;7.5
+Ireland;Cork;University College Cork;36000;48160;1500;2200;51.8985° N;8.4756° W;7.2
+Ireland;Galway;University of Galway;36000;48160;1200;1800;53.2707° N;9.0568° W;7.3
+Ireland;Limerick;University of Limerick;36000;48160;1200;1800;52.6680° N;8.6305° W;7.1
+Italy;Rome;Sapienza University, Roma Tre, Tor Vergata;25000;40000;1000;1600;41.9028° N;12.4964° E;6.5
+Italy;Milan;University of Milan, Politecnico di Milano, Bocconi University;25000;40000;1200;1800;45.4642° N;9.1900° E;6.9
+Italy;Bologna;University of Bologna;25000;40000;900;1500;44.4949° N;11.3426° E;6.6
+Italy;Florence;University of Florence;25000;40000;900;1500;43.7696° N;11.2558° E;6.7
+Italy;Padua;University of Padua;25000;40000;800;1400;45.4064° N;11.8768° E; 6.5                                  
+Italy;Turin;University of Turin, Politecnico di Torino;25000;40000;900;1500;45.0703° N;7.6869° E;6.4
+Italy;Pisa;University of Pisa, Scuola Normale Superiore;25000;40000;800;1400;43.7228° N;10.4017° E;6.6
+Italy;Naples;University of Naples Federico II;25000;40000;800;1400;40.8518° N;14.2681° E;6.3
+Italy;Trento;University of Trento;25000;40000;800;1400;46.0667° N;11.1211° E;6.8
+Netherlands;Amsterdam;University of Amsterdam, Vrije Universiteit Amsterdam;45000;60000;1500;2200;52.3676° N;4.9041° E;7.4
+Netherlands;Leiden;Leiden University;45000;60000;1300;1800;52.1601° N;4.4970° E;7.3
+Netherlands;Utrecht;Utrecht University;45000;60000;1300;1800;52.0907° N;5.1214° E;7.2
+Netherlands;Groningen;University of Groningen;45000;60000;1100;1600;53.2194° N;6.5665° E;7.1
+Netherlands;Rotterdam;Erasmus University Rotterdam;45000;60000;1200;1700;51.9244° N;4.4777° E;7.0
+Netherlands;Delft;Delft University of Technology;45000;60000;1300;1800;52.0116° N;4.3571° E;7.2
+Netherlands;Eindhoven;Eindhoven University of Technology;45000;60000;1200;1700;51.4416° N;5.4697° E;7.1
+Netherlands;Maastricht;Maastricht University;45000;60000;1100;1600;50.8514° N;5.6900° E;7.0
+Norway;Oslo;University of Oslo;60000;75000;1800;2500;59.9139° N;10.7522° E;7.8
+Norway;Bergen;University of Bergen;60000;75000;1600;2300;60.3913° N;5.3221° E;7.5
+Norway;Trondheim;Norwegian University of Science and Technology;60000;75000;1700;2400;63.4305° N;10.3951° E;7.4
+Norway;Tromsø;University of Tromsø;60000;75000;1600;2300;69.6496° N;18.9560° E;7.3
+Poland;Warsaw;University of Warsaw, Warsaw University of Technology;20000;30000;700;1200;52.2297° N;21.0122° E;6.2
+Poland;Kraków;Jagiellonian University, AGH University of Science and Technology;20000;30000;700;1200;50.0647° N;19.9450° E; 6.5                                  
+Poland;Wrocław;University of Wrocław, Wrocław University of Science and Technology;20000;30000;600;1100;51.1079° N;17.0385° E; 6.4                                  
+Poland;Poznań;Adam Mickiewicz University;20000;30000;600;1100;52.4064° N;16.9252° E; 6.3                                  
+Portugal;Lisbon;University of Lisbon, Nova University of Lisbon, ISCTE;20000;30000;1200;1800;38.7169° N;9.1390° W; 6.9                                  
+Portugal;Porto;University of Porto;20000;30000;1100;1700;41.1579° N;8.6291° W; 6.8                                  
+Portugal;Coimbra;University of Coimbra;20000;30000;900;1500;40.2110° N;8.4296° W; 6.7                                  
+Portugal;Braga;University of Minho;20000;30000;900;1500;41.5454° N;8.4265° W; 6.5
+Romania;Bucharest;University of Bucharest, Politehnica University of Bucharest;20000;30000;600;1000;44.4268° N;26.1025° E;5.4
+Romania;Cluj-Napoca;Babeș-Bolyai University;20000;30000;600;1000;46.7712° N;23.6236° E;5.5
+Romania;Iași;Alexandru Ioan Cuza University;20000;30000;500;900;47.1585° N;27.6014° E;5.4
+Romania;Timișoara;West University of Timișoara;20000;30000;500;900;45.7489° N;21.2087° E;5.3
+Spain;Madrid;Complutense University, Autonomous University, Carlos III, Polytechnic University;25000;40000;1200;1800;40.4168° N;3.7038° W;6.6
+Spain;Barcelona;University of Barcelona, Pompeu Fabra University, Autonomous University of Barcelona, UPC;25000;40000;1200;1800;41.3851° N;2.1734° E;6.7
+Spain;Valencia;University of Valencia, Polytechnic University of Valencia;25000;40000;1000;1600;39.4699° N;0.3763° W;6.4
+Spain;Granada;University of Granada;25000;40000;900;1400;37.1773° N;3.5986° W;6.5
+Spain;Seville;University of Seville;25000;40000;900;1400;37.3891° N;5.9845° W;6.3
+Spain;Salamanca;University of Salamanca;25000;40000;800;1300;40.9701° N;5.6635° W;6.4
+Spain;Bilbao;University of the Basque Country;25000;40000;900;1400;43.2630° N;2.9350° W;6.5
+Spain;Zaragoza;University of Zaragoza;25000;40000;800;1300;41.6488° N;0.8891° W;6.2
+Sweden;Stockholm;Stockholm University, KTH Royal Institute of Technology;36000;50000;1800;2500;59.3293° N;18.0686° E;7.6
+Sweden;Uppsala;Uppsala University;36000;50000;1500;2200;59.8586° N;17.6389° E;7.4
+Sweden;Lund;Lund University;36000;50000;1500;2200;55.7047° N;13.1910° E;7.5
+Sweden;Gothenburg;University of Gothenburg;36000;50000;1500;2200;57.7089° N;11.9746° E;7.3
+Sweden;Linköping;Linköping University;36000;50000;1500;2200;58.4109° N;15.6216° E;7.2
+Sweden;Umeå;Umeå University;36000;50000;1300;1800;63.8258° N;20.2630° E;7.1
+Switzerland;Zurich;ETH Zurich, University of Zurich;80000;100000;2500;3500;47.3769° N;8.5417° E;7.9
+Switzerland;Geneva;University of Geneva;80000;100000;2500;3500;46.2044° N;6.1432° E;7.8
+Switzerland;Lausanne;EPFL, University of Lausanne;80000;100000;2500;3500;46.5197° N;6.6323° E;7.7
+Switzerland;Bern;University of Bern;80000;100000;2200;3200;46.9481° N;7.4474° E;7.6
+Switzerland;Basel;University of Basel;80000;100000;2200;3200;47.5596° N;7.5886° E;7.8
+Turkey;Istanbul;Boğaziçi University, Istanbul University, Koç University, Sabancı University;15000;25000;400;800;41.0082° N;28.9784° E;5.2
+United Kingdom;Oxford;University of Oxford;36000;48000;1500;2300;51.7520° N;1.2577° W; 7.5  
+United Kingdom;Cambridge;University of Cambridge;36000;48000;1500;2300;52.2053° N;0.1218° E; 7.4  
+United Kingdom;London;University College London, Imperial College London, King’s College London, London School of Economics;36000;48000;2000;3000;51.5074° N;0.1278° W; 6.9  
+United Kingdom;Edinburgh;University of Edinburgh;34000;45000;1200;1800;55.9533° N;3.1883° W; 7.3  
+United Kingdom;Glasgow;University of Glasgow;34000;45000;1100;1700;55.8642° N;4.2518° W; 6.8  
+United Kingdom;Manchester;University of Manchester;34000;45000;1200;1800;53.4808° N;2.2426° W; 7.0  
+United Kingdom;Leeds;University of Leeds;34000;45000;1200;1800;53.8008° N;1.5491° W; 6.8  
+United Kingdom;Birmingham;University of Birmingham;34000;45000;1200;1800;52.4862° N;1.8904° W; 6.9  
+United Kingdom;Bristol;University of Bristol;34000;45000;1200;1800;51.4545° N;2.5879° W; 7.0  
+United Kingdom;Nottingham;University of Nottingham;34000;45000;1100;1700;52.9548° N;1.1581° W;6.8
+United Kingdom;Southampton;University of Southampton;34000;45000;1100;1700;50.9097° N;1.4043° W; 7.0  
+United Kingdom;Sheffield;University of Sheffield;34000;45000;1100;1700;53.3811° N;1.4701° W; 6.8  
+United Kingdom;Newcastle;Newcastle University;34000;45000;1100;1700;54.9783° N;1.6174° W; 6.9  
+United Kingdom;York;University of York;34000;45000;1100;1700;53.9590° N;1.0815° W; 7.0  
+United Kingdom;Cardiff;Cardiff University;34000;45000;1100;1700;51.4816° N;3.1791° W; 7.1  
+United Kingdom;Belfast;Queen’s University Belfast;34000;45000;1100;1700;54.5973° N;5.9301° W; 6.5  
+Luxembourg;Luxembourg City;University of Luxembourg;50000;70000;1800;2800;49.6117° N;6.1319° E;7.1
+Malta;Msida;University of Malta;20000;30000;800;1200;35.8997° N;14.4833° E;6.9
